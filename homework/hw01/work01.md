@@ -43,14 +43,13 @@ Switch#show interfaces vlan 1
 
 Vlan1 is administratively down, line protocol is down
 
+IP адрес не назначен
 
+address is 0060.2fc7.3ddc
 
+Данный интерфейс выключен (не сконфигурирован)
 
-
-
-
-
-
+#### e
 
 
 
